@@ -6,6 +6,7 @@ import (
 
 func main() {
 	fmt.Println("Hello World!")
+	mob()
 }
 
 func mob() {
